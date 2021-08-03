@@ -1,6 +1,6 @@
 # Typing
  
-I have been practising typing the 'ten key' numbers with these ruby scripts.
+I have been practising typing the standard row of numbers with these ruby scripts.
 My rationale here is that the simplest drills offer the greatest concentration.
 
 Call a script from the command line, to get ten tests, with ten randomised numbers.
